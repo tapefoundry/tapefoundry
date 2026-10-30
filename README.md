@@ -11,7 +11,6 @@ This repository is the public, hackathon-facing extract of the project: contract
 - `contracts/src/` — Solidity contracts for the card processor, edition registry, staking, auctions, buyer offers and related modules.
 - `contracts/test/` — Foundry tests, including the auction and drawing-level offer book.
 - `docs/ARCHITECTURE.md` — how the pieces fit together.
-- `docs/market-ui-reference.html` — the market UI reference, kept as a single static file.
 
 ## Live contracts
 
