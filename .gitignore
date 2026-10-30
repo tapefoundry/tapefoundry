@@ -1,0 +1,19 @@
+# Never publish secrets or runtime state
+.secrets/
+.ops/
+.env
+.env.*
+*.key
+*.pem
+wallet*.json
+testwallets.json
+*deploy*.json
+vapid*
+bscscan.key
+broadcast/
+cache/
+out/
+lib/
+node_modules/
+*.log
+backups/
